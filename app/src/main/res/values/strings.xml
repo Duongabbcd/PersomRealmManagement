@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PersomRealmManagement</string>
+    <string name="address">Address</string>
+    <string name="name">Name</string>
+    <string name="add_person">Add Person</string>
+    <string name="search_something">Search something...</string>
+</resources>
